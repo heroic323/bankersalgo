@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace BankersAlgorithm.BankersAlgorithmLib
 {
-    //Main Class That Handles the Resources and Processes
     public enum BankerState
     {
         Checking,
